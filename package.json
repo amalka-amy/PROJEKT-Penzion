@@ -1,0 +1,19 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "Povinný úkol pro kurz Staň se kóderkou od Czechitas.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalka-amy/PROJEKT-Penzion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalka-amy/PROJEKT-Penzion/issues"
+  },
+  "homepage": "https://github.com/amalka-amy/PROJEKT-Penzion#readme"
+}
